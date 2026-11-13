@@ -8,4 +8,7 @@ int main() {
     return 0;
 }
 
+
 Izmenenie Alena
+Otkazano
+
