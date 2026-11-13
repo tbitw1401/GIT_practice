@@ -7,3 +7,5 @@ int main() {
     cout << "Проект успешно изменен и дополнен!" << endl;
     return 0;
 }
+
+Otkazano
